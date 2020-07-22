@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9856ec4782651d3b97ce",
+    "revision": "a71cb282f9732c3e0352",
     "url": "/Platzi-Badges/static/css/main.e16b711f.chunk.css"
   },
   {
-    "revision": "9856ec4782651d3b97ce",
-    "url": "/Platzi-Badges/static/js/main.9856ec47.chunk.js"
+    "revision": "a71cb282f9732c3e0352",
+    "url": "/Platzi-Badges/static/js/main.a71cb282.chunk.js"
   },
   {
     "revision": "ca79e1d267b0de3bbf82",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/Platzi-Badges/static/media/stars.1d17360a.svg"
   },
   {
-    "revision": "1be6e085f280faa34c971cb3a9b6558e",
+    "revision": "64c815f2c52ce8c15f87625c869a1e31",
     "url": "/Platzi-Badges/index.html"
   }
 ];
