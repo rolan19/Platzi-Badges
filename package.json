@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rolan19.github.io/Platzi-Badges",
   "name": "platzi-badges",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +9,7 @@
     "server": "json-server --port 3001 --watch server/db.json",
     "seed": "node server/seed.js",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -21,6 +23,7 @@
   },
   "devDependencies": {
     "faker": "^4.1.0",
+    "gh-pages": "3.1.0",
     "json-server": "^0.14.2",
     "npm-run-all": "^4.1.5"
   },
